@@ -14,7 +14,7 @@
 <b>- Programming Languages: </b>Java, Python</br>
 <b>- Web Technology: </b>HTML</br>
 <b>- Databases: </b>My SQL, Ms SQL</br>
-<b>- Tools: </b>Jira, SVN, Azure Devops,Jira</br>
+<b>- Tools: </b>Jira, SVN, Azure Devops</br>
 <b>- Operating systems: </b>Windows, Linux.</br>
 <b>- Industrial standard protocols: </b>Modbus-TCP, BACnet</br>
 
