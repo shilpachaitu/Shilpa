@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shilpa! <br/><a href="https://github.com/joshmadakor1">Quality Engineering Senior Analyst</a></h1>
+<h2>Hi, I'm Shilpa! <br/><a href="https://github.com/joshmadakor1">Quality Engineering Senior Analyst</a></h2>
 
 ## About me
 <br>I am an enthusiastic software test engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. I want to prove myself as a good team member and perform my duties with best abilities to deal with as many projects and try my level best to get success. I will ensure high-quality software products are delivered to end users.</br>
