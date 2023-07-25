@@ -1,7 +1,7 @@
 <h2>Hi, I'm Shilpa! <br/>Quality Engineering Senior Analyst</h2>
 
 ## About me:
-<br>I am an enthusiastic software test engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. I want to prove myself as a good team member and perform my duties with best abilities to deal with as many projects and try my level best to get success. I will ensure high-quality software products are delivered to end users.</br>
+<br>I am a Passionate Software Tester having 6 + years of experience in Software Quality Assurance domain mainly in the the areas of Automation and Manual Testing of software.I want to prove myself as a good team member and perform my duties with best abilities to deal with as many projects and try my level best to get success. I will ensure high-quality software products are delivered to end users.</br>
 <br>I have experience in Web applicaton testing, Mobile app Testing, Chat Bot Testing, IVR Testing, Data Base Testing.</br>
 
 
