@@ -33,10 +33,10 @@ This will help manage customer requests with instant responses and boost satisfa
 <b>- Industrial standard protocols: </b>Modbus-TCP, BACnet</br>
 
 <h2>👨‍💻 Certifications :</h2></br>
-•	Completed course on Java and Manual Testing.</br>
-•	Completed course on Security testing in Dec 2021.</br>
+•	Completed Course on Java and Manual Testing.</br>
+•	Completed Course on Security testing in Dec 2021.</br>
 •	Completed Course on Security testing in Dec 2022.</br>
-•	Completed certification on AZ-900: Microsoft Azure Fundamentals.</br>
+•	Completed Certification on AZ-900: Microsoft Azure Fundamentals.</br>
 
 
 
