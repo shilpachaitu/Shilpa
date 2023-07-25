@@ -39,8 +39,8 @@ This will help manage customer requests with instant responses and boost satisfa
 •	Completed Certification on AZ-900: Microsoft Azure Fundamentals.</br>
 
 
-<h2>MY CV :</h2>
-<p><a href="mailto:someone@example.com">Send email</a></p>
+<h2>My Resume :</h2>
+<p><a href="https://github.com/shilpachaitu/Shilpa/blob/Resume/Resume_SHILPA.pdf">Resume </a></p> 
 
 
 <h2> 🤳 Connect with me:</h2>
